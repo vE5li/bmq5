@@ -1,0 +1,9 @@
+[package]
+name = "bmq5-server"
+version = "0.0.1"
+authors = ["ve5li <ve5li@tuta.io>"]
+
+[features]
+controller = []
+driver = []
+system = []
